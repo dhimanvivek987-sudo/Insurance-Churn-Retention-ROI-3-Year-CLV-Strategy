@@ -216,9 +216,3 @@ The data demonstrates that:
 - Power BI (Executive dashboards)
 - GitHub (Documentation & governance)
 
----
-
-## 8. Intended Audience
-- Executive Leadership
-- Strategy & Finance Teams
-- Senior Business & Data Analysts
